@@ -1,0 +1,5 @@
+NBA,Al Horford,Points,7.5
+NBA,Al Horford,Pts+Asts,10.5
+NBA,Al Horford,Rebounds,5
+NBA,Al Horford,Assists,3
+NBA,Al Horford,Pts+Rebs+Asts,16.5
